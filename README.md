@@ -15,3 +15,8 @@ Like the Warning said, this is a Beta verson so, Expect bugs.
 Asklink works by having different pages that do different stuff. Some pages require you to Create an account / Login but, Asklink doesn't store your info. And most pages don't need to have a login.
 
 We also have a strong mangers so anything that breaks the rules will have you getting banned.
+
+> [!Info]
+> idk stuff go yes.
+>
+> lol
