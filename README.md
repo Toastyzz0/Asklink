@@ -16,7 +16,7 @@ Asklink works by having different pages that do different stuff. Some pages requ
 
 We also have a strong mangers so anything that breaks the rules will have you getting banned.
 
-> [!Info]
+> # Stuff.
 > idk stuff go yes.
 >
 > lol
